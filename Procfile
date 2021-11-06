@@ -1,0 +1,1 @@
+web: gunicorn ComercioVerde.wsgi --log-file -
